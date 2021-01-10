@@ -1,0 +1,10 @@
+//! **************************************************************************
+// Written by: Map P.20131013 on Sun Jan 10 16:23:04 2021
+//! **************************************************************************
+
+SCHEMATIC START;
+COMP "data_in<0>" LOCATE = SITE "K17" LEVEL 1;
+COMP "data_in<1>" LOCATE = SITE "K18" LEVEL 1;
+COMP "data_out" LOCATE = SITE "P15" LEVEL 1;
+SCHEMATIC END;
+
